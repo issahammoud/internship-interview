@@ -1,2 +1,2 @@
 # internship-interview
-This repository contains some of the material I used for the internship position "Multimodal Embedding Models)
+This repository contains materials I used during interviews for the “Multimodal Embedding Models” internship.
